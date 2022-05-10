@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="user_name">User Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="company">Company</string>
+    <string name="Location">Location</string>
+    <string name="follower">num</string>
+    <string name="following">num</string>
+    <string name="repository">num</string>
+    <string name="followings">Followings</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="photo">Foto</string>
+    <string name="search">Search</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentfollowers">FragmentFollowers</string>
+    <string name="fragmentfollowing">FragmentFollowing</string>
+    <string name="menu_1">favorite</string>
+    <string name="menu_2">setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="theme">Theme</string>
+</resources>
